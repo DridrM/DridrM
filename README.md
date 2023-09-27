@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello 👋
+### On my way into data science
+### Working on fulfilling my curiosity
 
 <!--
 **DridrM/DridrM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
